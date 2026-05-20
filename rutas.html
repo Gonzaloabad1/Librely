@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rutas Literarias | Librely</title>
+  <link rel="stylesheet" href="main.css"/>
+  <link rel="icon" href="./img/favicon_io/favicon.ico">
+  <!-- Font Awesome para los iconos de las paradas -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<!-- Leaflet CSS y JS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+<body>
+
+<header>
+  <h1><img src="img/logo.svg" alt="logo"> LIBRELY</h1>
+  <p>Lee el libro y descubre el sitio</p>
+ <ul class="nav-links">
+            <li><a href="index.html" class="nav-item">Inicio</a></li>
+            <li><a href="autores.html" class="nav-item">Autores</a></li>
+            <li><a href="rutas.html" class="nav-item ">Rutas Literarias</a></li>
+            </ul>
+</header>
+
+<main>
+  <section class="intro-rutas">
+    <h2><img src="https://static.vecteezy.com/system/resources/thumbnails/024/861/695/small/discover-your-outdoor-destination-with-this-3d-icon-of-a-map-location-png.png" alt="ruta"><strong>Nuestras Rutas Literarias</strong></h2>
+    <p><strong>Explora los escenarios reales que inspiraron tus historias favoritas.</strong></p>
+</section>
+
+  <!-- Contenedor donde se cargarán las rutas del JSON -->
+  <div id="rutas-container" class="grid-rutas"></div>
+<div class="pasaporte-btn-container">
+  <a href="galeria.html" class="btn-ir-pasaporte">
+    <i class="fa-solid fa-passport"></i> Abrir mi Pasaporte Literario
+  </a>
+</div>
+</main>
+
+<footer class="main-footer">
+    <div class="footer-content">
+        <div class="footer-section about">
+            <h2 class="footer-logo">LIBRELY</h2>
+            <p>Conectando lectores con los escenarios reales de sus historias favoritas.</p>
+            <div class="social-links">
+                <a href="https://www.instagram.com/gonzaloabadcm1993/"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.facebook.com/codzero"><i class="fab fa-facebook"></i></a>
+            </div>
+        </div>
+
+        <div class="footer-section links">
+            <h3>Explorar</h3>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="autores.html">Autores</a></li>
+                <li><a href="rutas.html">Rutas Literarias</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-section contact">
+            <h3>Newsletter</h3>
+            <p>Recibe nuevas rutas literarias en tu correo.</p>
+            <form class="footer-form">
+                <input type="email" placeholder="Tu email...">
+                <button type="submit">Unirse</button>
+            </form>
+        </div>
+    </div>
+    
+    <div class="footer-bottom">
+        <p>&copy; 2026 Librely - Lee el libro y descubre el sitio.</p>
+    </div>
+</footer>
+
+<!-- Script específico para cargar las rutas -->
+<script src="script-rutas.js"></script>
+<!-- PRIMERO la librería Leaflet -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<!-- DESPUÉS tu lógica personalizada -->
+<script src="script-rutas.js"></script>
+</body>
+</html>

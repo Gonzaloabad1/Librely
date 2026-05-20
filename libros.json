@@ -1,0 +1,407 @@
+[
+  {
+    "autor": "Gonzalo Abad Alonso",
+    "genero_principal": "Noir (Novela negra), Misterio, Enigma Histórico",
+    "obras": [
+      {
+        "titulo": "El Enigma de la Ciudad Imperial",
+        "portada_url": "https://storage.googleapis.com/cdn-lantia/images/lantia_cover_688336a70550e_720.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Toledo",
+            "descripcion": "Toledo, 2006. Una serie de extraños asesinatos cometidos por «el Artista», un implacable y astuto asesino serial que transforma los cuerpos de sus víctimas en copias grotescas de diferentes leyendas de la ciudad..."
+          }
+        ]
+      },
+      {
+        "titulo": "Sueños de un joven escritor",
+        "portada_url": "https://www.libreriaserendipia.com/imagenes/9788413/978841350421.JPG",
+        "lugares_clave": [
+          {
+            "nombre": "General",
+            "descripcion": "Recopilación de relatos escritos por el mero placer de crear, mezclando misterio, aventura y terror."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autor": "Arturo Pérez-Reverte",
+    "genero_principal": "Histórico, Aventura, Intriga",
+    "obras": [
+      {
+        "titulo": "El Club Dumas",
+        "portada_url": "https://m.media-amazon.com/images/I/71eCkfATmZL._UF1000,1000_QL80_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "General",
+            "descripcion": "Lucas Corso, cazador de libros y bibliófilo mercenario, se ve envuelto en una investigación sobre manuscritos antiguos."
+          }
+        ]
+      },
+      {
+        "titulo": "La Tabla de Flandes",
+        "portada_url": "https://m.media-amazon.com/images/I/71NxwXUGagL._AC_UF350,350_QL50_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "General",
+            "descripcion": "Una partida de ajedrez en un cuadro flamenco oculta un secreto que pudo cambiar la historia de Europa."
+          }
+        ]
+      },
+      {
+        "titulo": "Saga Capitán Alatriste",
+        "portada_url": "https://cdn.zendalibros.com/wp-content/uploads/2016/11/alatriste-portadas-collage-1.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "Madrid del siglo XVII, donde Diego Alatriste sobrevive como espadachín a sueldo."
+          }
+        ]
+      },
+      {
+        "titulo": "Línea de fuego",
+        "portada_url": "https://m.media-amazon.com/images/I/51BkcODv09L._AC_UF1000,1000_QL80_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "General",
+            "descripcion": "Julio de 1938, miles de jóvenes combaten en la trágica batalla del Ebro."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autor": "Dolores Redondo",
+    "genero_principal": "Noir (Novela negra), Misterio",
+    "obras": [
+      {
+        "titulo": "El guardián invisible (Trilogía del Baztán)",
+        "portada_url": "https://m.media-amazon.com/images/I/81uxmkuQMKL._AC_UF1000,1000_QL80_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Baztán",
+            "descripcion": "La inspectora Amaia Salazar investiga el cuerpo desnudo de una adolescente en los márgenes del río Baztán."
+          }
+        ]
+      },
+      {
+        "titulo": "Todo esto te daré",
+        "portada_url": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/201809/10/00106523376801____1__1200x1200.jpg",
+        "lugares_clave": []
+      },
+      {
+        "titulo": "Esperando al diluvio",
+        "portada_url": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202311/28/00106524063887____2__1200x1200.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Bilbao",
+            "descripcion": "Noah Scott sigue una corazonada tras los pasos de John Biblia que lo llevará hasta el Bilbao de 1983."
+          }
+        ]
+      },
+      {
+        "titulo": "Las que no duermen NASH",
+        "portada_url": "https://m.media-amazon.com/images/I/61JSpAmEemL.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Baztán",
+            "descripcion": "Investigación forense en torno a un asesinato conectado con antiguas leyendas de brujería."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autor": "Juan Gómez-Jurado",
+    "genero_principal": "Thriller, Suspense",
+    "obras": [
+      {
+        "titulo": "Reina Roja",
+        "portada_url": "https://static.fnac-static.com/multimedia/Images/ES/NR/74/f6/47/4716148/1540-1.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "Antonia Scott se ve envuelta en una investigación compleja junto al inspector Jon Gutiérrez."
+          }
+        ]
+      },
+      {
+        "titulo": "Loba Negra",
+        "portada_url": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202401/25/00106523541834____10__1200x1200.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "Antonia Scott se ve envuelta en una investigación compleja junto al inspector Jon Gutiérrez."
+          }
+        ]
+      },
+      {
+        "titulo": "Rey Blanco",
+        "portada_url": "https://imagessl5.casadellibro.com/a/l/s7/45/9788466668545.webp",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "Antonia Scott se ve envuelta en una investigación compleja junto al inspector Jon Gutiérrez."
+          }
+        ]
+      },
+      {
+        "titulo": "Cicatriz",
+        "portada_url": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202112/01/00106523643648____129__1200x1200.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "Simon Sax podría ser un tipo afortunado, pero no es así. Su vida cambia al conocer a Irina."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autor": "Santiago Díaz",
+    "genero_principal": "Thriller policial directo y crudo",
+    "obras": [
+      {
+        "titulo": "El buen padre",
+        "portada_url": "https://dam.elcorteingles.es/producto/www-001006524063085-00.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "La inspectora Indira Ramos tiene tres semanas para resolver el plan del buen padre."
+          }
+        ]
+      },
+      {
+        "titulo": "Las otras niñas",
+        "portada_url": "https://dam.elcorteingles.es/producto/www-001006524063093-00.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "Indira Ramos e Iván Moreno trabajan mano a mano en un rompecabezas criminal."
+          }
+        ]
+      },
+      {
+        "titulo": "Indira",
+        "portada_url": "https://dam.elcorteingles.es/producto/www-001006523948567-00.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "Indira y su equipo investigan el hallazgo de varios cadáveres en un solar."
+          }
+        ]
+      },
+      {
+        "titulo": "Talión",
+        "portada_url": "https://dam.elcorteingles.es/producto/www-001006529632363-00.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "Marta Aguilera decide pasar sus últimas semanas de vida impartiendo justicia."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autor": "Rosa Montero",
+    "genero_principal": "Narrativa, Ciencia Ficción, Ensayo",
+    "obras": [
+      {
+        "titulo": "La hija del caníbal",
+        "portada_url": "https://m.media-amazon.com/images/I/71iL1CKxrnL._SY425_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Viena",
+            "descripcion": "Lucía investiga por su cuenta el paradero de Ramón."
+          }
+        ]
+      },
+      {
+        "titulo": "La ridícula idea de no volver a verte",
+        "portada_url": "https://m.media-amazon.com/images/I/51AVLynudiL._AC_UY218_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "General",
+            "descripcion": "Rosa Montero construye una narración al hilo de la trayectoria de Marie Curie."
+          }
+        ]
+      },
+      {
+        "titulo": "Lágrimas en la lluvia",
+        "portada_url": "https://imagessl1.casadellibro.com/a/l/t5/01/9788432224201.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid 2109",
+            "descripcion": "La detective Bruna Husky descubre qué hay detrás de la ola de locura de replicantes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autor": "Ken Follett",
+    "genero_principal": "Novela Histórica",
+    "obras": [
+      {
+        "titulo": "Los pilares de la Tierra",
+        "portada_url": "https://dam.elcorteingles.es/producto/www-001006520536365-00.jpg",
+        "lugares_clave": []
+      },
+      {
+        "titulo": "Un mundo sin fin",
+        "portada_url": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202112/01/00106523279211____70__1200x1200.jpg",
+        "lugares_clave": []
+      },
+      {
+        "titulo": "La caída de los gigantes",
+        "portada_url": "https://m.media-amazon.com/images/I/91WmuXDuIEL._AC_UY218_.jpg",
+        "lugares_clave": []
+      }
+    ]
+  },
+  {
+    "autor": "Brandon Sanderson",
+    "genero_principal": "Fantasía Épica",
+    "obras": [
+      {
+        "titulo": "El Imperio Final (Nacidos de la Bruma)",
+        "portada_url": "https://m.media-amazon.com/images/I/81+FMcyuTBL._AC_UY218_.jpg",
+        "lugares_clave": []
+      },
+      {
+        "titulo": "El Camino de los Reyes (Archivo de las Tormentas)",
+        "portada_url": "https://m.media-amazon.com/images/I/91jOSMOea0L._AC_UY218_.jpg",
+        "lugares_clave": []
+      },
+      {
+        "titulo": "El aliento de los dioses",
+        "portada_url": "https://m.media-amazon.com/images/I/718Fpuf2VrL._AC_UY218_.jpg",
+        "lugares_clave": []
+      }
+    ]
+  },
+  {
+    "autor": "Santiago Posteguillo",
+    "genero_principal": "Novela Histórica",
+    "obras": [
+      {
+        "titulo": "Roma soy yo",
+        "portada_url": "https://m.media-amazon.com/images/I/719yqLXOmyL._AC_UY218_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Roma",
+            "descripcion": "Crónica monumental que narra el nacimiento y ascenso de Julio César."
+          }
+        ]
+      },
+      {
+        "titulo": "Africanus: El hijo del cónsul",
+        "portada_url": "https://m.media-amazon.com/images/I/51-xxHfpCWL._SY445_SX342_ML2_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Roma / Cartago",
+            "descripcion": "La epopeya de Publio Cornelio Escipión frente a la amenaza de Aníbal Barca."
+          }
+        ]
+      },
+      {
+        "titulo": "Yo, Julia",
+        "portada_url": "https://m.media-amazon.com/images/I/61HserpMOUL._AC_UY218_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Roma",
+            "descripcion": "La historia de la mujer más poderosa del Imperio Romano."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autor": "Javier Sierra",
+    "genero_principal": "Misterio, Enigma Histórico",
+    "obras": [
+      {
+        "titulo": "El maestro del Prado",
+        "portada_url": "https://s1.ppllstatics.com/ideal/www/pre2017/multimedia/noticias/201404/25/media/cortadas/libro-maestro--235x235.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid",
+            "descripcion": "Un enigma oculto en un cuadro de Velázquez en el Museo del Prado."
+          }
+        ]
+      },
+      {
+        "titulo": "El ángel perdido",
+        "portada_url": "https://m.media-amazon.com/images/I/91pmfp5Q8JL._AC_UF1000,1000_QL80_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Monte Ararat",
+            "descripcion": "Julia Álvarez se ve envuelta en una trama milenaria mientras restaura el Pórtico de la Gloria."
+          }
+        ]
+      },
+      {
+        "titulo": "La cena secreta",
+        "portada_url": "https://2.bp.blogspot.com/-HdYMoZnWehc/XFtf2FnWZrI/AAAAAAAArrA/m8R5CeAXzEAPdT_JQKWdPzBPwh_mLI1DgCLcBGAs/s1600/pack-la-cena-secreta-por-que-escribi-la-cena-secreta_9788408107811.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Milán",
+            "descripcion": "En el convento de Santa Maria delle Grazie, Leonardo da Vinci plasma mensajes cifrados en su mural de La Última Cena."
+          }
+        ]
+      },
+      {
+        "titulo": "La dama azul",
+        "portada_url": "https://www.javiersierra.com/wp-content/archivos/Img-LDA/lda057.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Nuevo México / Ágreda",
+            "descripcion": "Una investigación sobre la bilocación de Sor María de Ágreda, que supuestamente se apareció a los indios jumanos en el siglo XVII."
+          }
+        ]
+      },
+      {
+        "titulo": "El fuego invisible",
+        "portada_url": "https://www.leyendasdetoledo.com/wp-content/uploads/2018/09/el_fuego_invisible_prensa-673x1024.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Madrid / Pirineos",
+            "descripcion": "David Salas busca el origen de la palabra 'Grial' a través de pistas ocultas en iglesias románicas y literatura medieval."
+          }
+        ]
+      },
+      {
+        "titulo": "El secreto egipcio de Napoleón",
+        "portada_url": "https://m.media-amazon.com/images/I/91lePG4zVdL._SL1500_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Giza, Egipto",
+            "descripcion": "París, 1799. Napoleón Bonaparte pasa una noche a solas en la Gran Pirámide, enfrentándose a un enigma que cambiaría su destino."
+          }
+        ]
+      },
+      {
+        "titulo": "La ruta prohibida",
+        "portada_url": "https://m.media-amazon.com/images/I/918pqSAZ8gL._SL1500_.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "América",
+            "descripcion": "Investigación sobre los enigmas históricos que sugieren que Colón no fue el primero en llegar al Nuevo Mundo."
+          }
+        ]
+      },
+      {
+        "titulo": "El mensaje de Pandora",
+        "portada_url": "https://www.javiersierra.com/wp-content/archivos/Audiolibros/2020-MEP-ES-Audiolibro-scaled.jpg",
+        "lugares_clave": [
+          {
+            "nombre": "Grecia",
+            "descripcion": "A través de una carta a su sobrina, el autor explora el origen de las pandemias y la conexión de la humanidad con el cosmos."
+          }
+        ]
+      }
+    ]
+  }
+]

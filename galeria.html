@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mi Pasaporte Literario | Librely</title>
+  <link rel="stylesheet" href="main.css"/>
+  <link rel="icon" href="./img/favicon_io/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+<header class="main-header">
+  <div class="navbar">
+    <div class="nav-logo">
+      <a href="index.html">
+        <img src="img/logo.svg" alt="logo">
+        <span class="logo-text">LIBRELY</span>
+      </a>
+    </div>
+    <ul class="nav-links">
+      <li><a href="index.html" class="nav-item">Inicio</a></li>
+      <li><a href="autores.html" class="nav-item">Autores</a></li>
+      <li><a href="rutas.html" class="nav-item">Rutas Literarias</a></li>
+      <li><a href="pasaporte.html" class="nav-item active"><i class="fa-solid fa-passport"></i> Pasaporte</a></li>
+    </ul>
+  </div>
+</header>
+
+<main class="pasaporte-main-container">
+  
+  <section class="validador-rutas-panel">
+    <h3><i class="fa-solid fa-stamp"></i> Puesto de Control Fronterizo</h3>
+    <p>Selecciona tu próximo destino literario y obtén el sello oficial en tu pasaporte antes de partir.</p>
+    
+    <div class="controles-validador">
+      <select id="selector-ruta-pasaporte">
+        <option value="">-- Elige una Ruta para Estampar --</option>
+        </select>
+      <button id="btn-estampar-sello" class="btn-accion-estampar" disabled>
+        <i class="fa-solid fa-ink-pen"></i> Estampar Sello de Viaje
+      </button>
+      <div style="text-align: center; margin-top: 20px;">
+    <button id="btn-reiniciar-pasaporte" style="background-color: #c0392b; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-weight: bold; font-family: sans-serif;">
+        <i class="fa-solid fa-trash-can"></i> Reiniciar y Vaciar Pasaporte
+    </button>
+</div>
+    </div>
+  </section>
+
+  <section class="libro-pasaporte">
+    
+    <div class="hoja-pasaporte hoja-identidad">
+      <div class="encabezado-pais">
+        <span>REPÚBLICA DE LOS LECTORES</span>
+        <h4>PASAPORTE / PASSPORT</h4>
+      </div>
+      <div class="cuerpo-identidad">
+        <div class="foto-usuario-pasaporte">
+          <i class="fa-solid fa-user-tie"></i>
+        </div>
+        <div class="datos-usuario-pasaporte">
+          <div class="campo-dato">
+            <label>Apellidos / Surname</label>
+            <span class="valor-dato">Viajero Literario</span>
+          </div>
+          <div class="campo-dato">
+            <label>Nombre / Given Names</label>
+            <span class="valor-dato">Explorador de Historias</span>
+          </div>
+          <div class="campo-dato">
+            <label>Nacionalidad / Nationality</label>
+            <span class="valor-dato">Librely</span>
+          </div>
+          <div class="campo-dato">
+            <label>Rutas Superadas / Visas Issued</label>
+            <span class="valor-dato-resaltado" id="stats-rutas-contador">0 / 5</span>
+          </div>
+        </div>
+      </div>
+      <div class="huella-seguridad">
+        <i class="fa-solid fa-fingerprint"></i>
+        <div class="codigo-lectura-mecanica">
+          P&lt;ESP&lt;VIAJERO&lt;&lt;EXPLORADOR&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;<br>
+          RE20261209&lt;3ESP7705204M&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;0
+        </div>
+      </div>
+    </div>
+
+    <div class="hoja-pasaporte hoja-sellos">
+      <div class="encabezado-sellos">
+        <h4>VISAS / VISADOS</h4>
+      </div>
+      
+      <div class="grid-sellos-estampados" id="contenedor-sellos-tinta">
+        </div>
+    </div>
+
+  </section>
+</main>
+
+<footer class="main-footer">
+    <div class="footer-bottom">
+        <p>&copy; 2026 Librely - Lee el libro y descubre el sitio.</p>
+    </div>
+</footer>
+
+<script src="script-pasaporte.js"></script>
+</body>
+</html>

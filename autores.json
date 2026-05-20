@@ -1,0 +1,72 @@
+[
+  {
+    "id": "gonzalo-abad-alonso",
+    "nombre": "Gonzalo Abad Alonso",
+    "foto": "https://editorialcirculorojo.com/wp-content/uploads/elementor/thumbs/gonzalo-abad-r0nz1evd5145qmfbbkupgorb1fof4m8h8hm3lepczk.gif",
+    "biografia": "Escritor ciudadrealeño que ha convertido la Ciudad Imperial en el escenario perfecto para sus thrillers. Especialista en entrelazar la historia oculta con el suspense más actual.",
+    "estilo": "Misterio y Enigma Histórico"
+  },
+  {
+    "id": "arturo-perez-reverte",
+    "nombre": "Arturo Pérez-Reverte",
+    "foto": "https://www.perezreverte.com/upload/fotos/paginas/201310/arturoperezreverte_grande.jpg",
+    "biografia": "Miembro de la RAE y antiguo reportero de guerra. Sus novelas son viajes precisos por la historia de España y del Mediterráneo, llenas de aventura y héroes cansados.",
+    "estilo": "Histórico y Aventura"
+  },
+  {
+    "id": "dolores-redondo",
+    "nombre": "Dolores Redondo",
+    "foto": "https://s3.ppllstatics.com/mujerhoy/www/multimedia/202306/07/media/cortadas/dolores-redondo-k2X-U200489252022tYF-1248x1248@MujerHoy.jpg",
+    "biografia": "La ganadora del Premio Planeta que revolucionó el thriller español con la Trilogía del Baztán, donde los bosques de Navarra cobran vida propia entre crímenes y mitos.",
+    "estilo": "Noir y Mitología"
+  },
+  {
+    "id": "juan-gomez-jurado",
+    "nombre": "Juan Gómez-Jurado",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Juan_Gomez-Jurado_%28cropped%29.jpg/250px-Juan_Gomez-Jurado_%28cropped%29.jpg",
+    "biografia": "El autor de thriller más leído en España. Sus tramas vertiginosas, lideradas por Antonia Scott, han redefinido el suspense psicológico con Madrid como telón de fondo.",
+    "estilo": "Thriller Psicológico"
+  },
+  {
+    "id": "santiago-diaz",
+    "nombre": "Santiago Díaz",
+    "foto": "https://images.librotea.com/uploads/media/2025/04/07/santiago-diaz-foto-librotea.jpg",
+    "biografia": "Guionista y escritor conocido por la crudeza y el ritmo cinematográfico de sus novelas. Su inspectora Indira Ramos es ya un referente del policial español contemporáneo.",
+    "estilo": "Thriller Policial"
+  },
+  {
+    "id": "rosa-montero",
+    "nombre": "Rosa Montero",
+    "foto": "https://www.ieturolenses.org/media/wysiwyg/WebsiteTuria/articulos/2025/ROSA_MONTERO_10.jpg",
+    "biografia": "Periodista y escritora de larga trayectoria. Su obra viaja desde el análisis profundo de las emociones humanas hasta mundos futuristas cargados de existencialismo.",
+    "estilo": "Narrativa y Ciencia Ficción"
+  },
+  {
+    "id": "ken-follett",
+    "nombre": "Ken Follett",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ken_Follett_official.jpg",
+    "biografia": "Maestro indiscutible del bestseller histórico. Sus catedrales y sagas familiares han transportado a millones de lectores a través de los siglos con un rigor fascinante.",
+    "estilo": "Novela Histórica"
+  },
+  {
+    "id": "brandon-sanderson",
+    "nombre": "Brandon Sanderson",
+    "foto": "https://m.media-amazon.com/images/S/amzn-author-media-prod/o1ehbft4gejvtoskr22jt89eit._SY600_._SL200_._PQ50_._FMwebp_.jpg",
+    "biografia": "El arquitecto de mundos más prolífico de la fantasía actual. Creador del Cosmere, destaca por sus sistemas de magia lógicos y su épica inigualable.",
+    "estilo": "Fantasía Épica"
+  },
+  {
+    "id": "santiago-posteguillo",
+    "nombre": "Santiago Posteguillo",
+    "foto": "https://www.santiagoposteguillo.es/wp-content/uploads/A5RRWLJZW5BNZLMRWHET6Q7T2E-uai-900x385.jpeg",
+    "biografia": "El autor que devolvió el esplendor a la Antigua Roma en las librerías. Sus novelas sobre Escipión y Julio César son lecciones de historia y estrategia militar.",
+    "estilo": "Novela Histórica Romana"
+  },
+  {
+    "id": "javier-sierra",
+    "nombre": "Javier Sierra",
+    "foto": "https://imagessl.casadellibro.com/img/autores/50894.jpg",
+    "biografia": "Buscador de enigmas y experto en el arte del misterio. Sus historias exploran lo desconocido y los secretos ocultos en grandes monumentos y obras de arte.",
+    "estilo": "Misterio y Enigma"
+  }
+]

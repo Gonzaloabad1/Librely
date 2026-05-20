@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Autores | Librely</title>
+  <link rel="stylesheet" href="main.css"/>
+  <!-- Añadimos FontAwesome para los iconos de redes sociales si no los tenías -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<link rel="icon" href="./img/favicon_io/favicon.ico">
+</head>
+<body>
+
+<header>
+  <!-- Enlazamos el logo para volver al inicio -->
+  <a href="index.html" style="text-decoration: none; color: inherit;">
+    <h1><img src="img/logo.svg" alt="logo"> LIBRELY</h1>
+  </a>
+  <p>Conoce a las mentes detrás de las historias</p>
+  <ul class="nav-links">
+            <li><a href="index.html" class="nav-item">Inicio</a></li>
+            <li><a href="autores.html" class="nav-item">Autores</a></li>
+            <li><a href="rutas.html" class="nav-item">Mapa Literario</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+  <section class="seccion-titulo">
+    <h2>Nuestros Autores Destacados</h2>
+    <p>Descubre sus biografías y los mundos que han creado.</p>
+  </section>
+
+  <!-- Contenedor donde JavaScript pintará los autores -->
+  <div id="autores-container" class="grid-autores"></div>
+</main>
+
+<footer class="main-footer">
+    <div class="footer-content">
+        <div class="footer-section about">
+            <h2 class="footer-logo">LIBRELY</h2>
+            <p>Conectando lectores con los escenarios reales de sus historias favoritas.</p>
+            <div class="social-links">
+                <a href="https://www.instagram.com/gonzaloabadcm1993/"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.facebook.com/codzero"><i class="fab fa-facebook"></i></a>
+            </div>
+        </div>
+
+        <div class="footer-section links">
+            <h3>Explorar</h3>
+        <ul class="nav-links">
+            <li><a href="index.html" class="nav-item">Inicio</a></li>
+            <li><a href="autores.html" class="nav-item">Autores</a></li>
+            <li><a href="rutas.html" class="nav-item ">Rutas Literarias</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-section contact">
+            <h3>Newsletter</h3>
+            <p>Recibe nuevas rutas literarias en tu correo.</p>
+            <form class="footer-form">
+                <input type="email" placeholder="Tu email...">
+                <button type="submit">Unirse</button>
+            </form>
+        </div>
+    </div>
+    
+    <div class="footer-bottom">
+        <p>&copy; 2026 Librely - Lee el libro y descubre el sitio.</p>
+    </div>
+</footer>
+
+<!-- Necesitarás un script específico para autores o añadir la lógica al tuyo -->
+<script src="script-autores.js"></script>
+</body>
+</html>

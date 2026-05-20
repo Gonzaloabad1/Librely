@@ -1,0 +1,200 @@
+[
+  {
+    "id": "ruta-toledo-enigma",
+    "titulo": "Toledo: El Enigma de la Ciudad Imperial",
+    "autor_id": "gonzalo-abad-alonso",
+    "libro": "El Enigma de la Ciudad Imperial",
+    "imagen_banner": "https://loscasosdelinspectorrobles.wordpress.com/wp-content/uploads/2025/05/1000018949.jpg?w=1024",
+    "descripcion_corta": "Sigue los pasos del «Artista» por los callejones medievales de Toledo en una ruta de misterio y leyendas.",
+    "paradas": [
+      {
+        "orden": 1,
+        "lugar": "El Valle",
+        "coords": [39.8471, -4.0242],
+        "detalle": "Lugar comienza la macabra serie de asesinatos.",
+        "icono": "map-marker-alt"
+      },
+      {
+        "orden": 2,
+        "lugar": "Plaza de Zocodover",
+        "coords": [39.8594, -4.0223],
+        "detalle": "Punto donde Martina se despide de sus amigos. Centro neurálgico de Toledo",
+        "icono": "map-marker-alt"
+      },
+      {
+        "orden": 3,
+        "lugar": "Callejón de los Muertos",
+        "coords": [39.8578, -4.0259],
+        "detalle": "Escenario de una de las leyendas más antiguas que el asesino recrea con su víctima(Martina).",
+        "icono": "ghost"
+      },
+      {
+        "orden": 4,
+        "lugar": "Catedral Primada",
+        "coords": [39.8573, -4.0245],
+        "detalle": "El centro neurálgico del enigma donde la historia oculta de la ciudad sale a la luz. Lugar donde se descubren los cadáveres de la pareja desaparecida.",
+        "icono": "church"
+      },
+      {
+        "orden": 5,
+        "lugar": "Alcázar",
+        "coords": [39.8581, -4.0203],
+        "detalle": "Majestuosa fortaleza donde se realiza la presentación del libro Sueños de un joven escritor.",
+        "icono": "ghost"
+      },
+      {
+        "orden": 6,
+        "lugar": "Sala subterránea / Altar",
+        "coords": [39.8562, -4.0284],
+        "detalle": "Localización final donde Irene es retenida y donde se encuentra un artefacto explosivo.",
+        "icono": "ghost"
+      }
+    ]
+  },
+  {
+    "id": "ruta-madrid-alatriste",
+    "titulo": "El Madrid de los Austrias: Capitán Alatriste",
+    "autor_id": "arturo-perez-reverte",
+    "libro": "Saga Capitán Alatriste",
+    "imagen_banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Plaza_de_la_Villa_%28Madrid%29_07.jpg/330px-Plaza_de_la_Villa_%28Madrid%29_07.jpg",
+    "descripcion_corta": "Camina por el Madrid del siglo XVII, entre espadachines, hidalgos y poetas en el Siglo de Oro.",
+    "paradas": [
+      {
+        "orden": 1,
+        "lugar": "Taberna del Turco",
+        "coords": [40.4145, -3.7078],
+        "detalle": "Antigua calle de Toledo; el refugio de Alatriste e Iñigo Balboa donde se fraguaban los encargos.",
+        "icono": "glass-cheers"
+      },
+      {
+        "orden": 2,
+        "lugar": "Plaza de la Villa",
+        "coords": [40.4152, -3.7101],
+        "detalle": "Lugar de duelos nocturnos a capa y espada, donde el acero decidía el honor.",
+        "icono": "fencer"
+      },
+      {
+        "orden": 3,
+        "lugar": "Iglesia de San Ginés",
+        "coords": [40.4169, -3.7067],
+        "detalle": "Famosa por sus leyendas y por ser el punto de encuentro de personajes oscuros de la corte.",
+        "icono": "place-of-worship"
+      },
+      {
+        "orden": 4,
+        "lugar": "Casa de Lope de Vega",
+        "coords": [40.4132, -3.6975],
+        "detalle": "En el Barrio de las Letras, donde la literatura y las envidias de la época cobran vida.",
+        "icono": "pen-nib"
+      }
+    ]
+  },
+  {
+    "id": "ruta-baztan-dolores",
+    "titulo": "Valle del Baztán: Mitología y Crimen",
+    "autor_id": "dolores-redondo",
+    "libro": "El guardián invisible",
+    "imagen_banner": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1200",
+    "descripcion_corta": "Adéntrate en los bosques de Navarra para descubrir los escenarios reales de la inspectora Amaia Salazar.",
+    "paradas": [
+      {
+        "orden": 1,
+        "lugar": "Río Baztán",
+        "coords": [43.1492, -1.4686],
+        "detalle": "Las orillas donde aparece el primer cuerpo, bajo la sombra de los robles.",
+        "icono": "tint"
+      },
+      {
+        "orden": 2,
+        "lugar": "Elizondo",
+        "coords": [43.1481, -1.4722],
+        "detalle": "Visita la casa de la tía Engrasi y degusta los famosos mantecados Txantxigorri.",
+        "icono": "home"
+      },
+      {
+        "orden": 3,
+        "lugar": "Cuevas de Zugarramurdi",
+        "coords": [43.2714, -1.5398],
+        "detalle": "El epicentro de las leyendas de brujería que conectan con los nuevos casos.",
+        "icono": "mountain"
+      }
+    ]
+  },
+  {
+    "id": "ruta-madrid-reina-roja",
+    "titulo": "Madrid: El Mapa de Antonia Scott",
+    "autor_id": "juan-gomez-jurado",
+    "libro": "Reina Roja",
+    "imagen_banner": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?auto=format&fit=crop&q=80&w=1200",
+    "descripcion_corta": "Un recorrido vertiginoso por el Madrid de la mujer más inteligente del mundo.",
+    "paradas": [
+      {
+        "orden": 1,
+        "lugar": "Barrio de Lavapiés",
+        "coords": [40.4087, -3.7024],
+        "detalle": "Cerca del piso de Antonia, donde comienza su colaboración con Jon Gutiérrez.",
+        "icono": "city"
+      },
+      
+      {
+        "orden": 2,
+        "lugar": "Plaza de Oriente",
+        "coords": [40.4181, -3.7126],
+        "detalle": "Escenario de tensiones políticas y persecuciones clave en la trama.",
+        "icono": "monument"
+      },
+         {
+        "orden": 3,
+        "lugar": "Plaza de España",
+        "coords": [40.4233, -3.7121],
+        "detalle": "Punto estratégico cerca del Edificio España, donde la arquitectura monumental de Madrid esconde secretos del subsuelo..",
+        "icono": "city"
+      },
+         {
+        "orden": 4,
+        "lugar": "Calle Serrano",
+        "coords":[40.4297, -3.6876],
+        "detalle": "Zona de lujo donde residen algunas de las víctimas y personajes de la alta sociedad madrileña que aparecen en la obra.",
+        "icono": "city"
+      },
+        {
+        "orden": 5,
+        "lugar": "Hospital de La Paz",
+        "coords":[40.4805, -3.6873],
+        "detalle": "Centro médico recurrente en la saga debido a los incidentes que sufren los protagonistas.",
+        "icono": "city"
+      },
+       {
+        "orden": 6,
+        "lugar": "Túneles M-30",
+        "coords":[40.4011, -3.6994],
+        "detalle": "Los accesos y túneles que recorre la furgoneta en los momentos de mayor acción y tensión de la historia.",
+        "icono": "city"
+      }
+    ]
+  },
+  {
+    "id": "ruta-roma-posteguillo",
+    "titulo": "Roma: El Ascenso del César",
+    "autor_id": "santiago-posteguillo",
+    "libro": "Roma soy yo",
+    "imagen_banner": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&q=80&w=1200",
+    "descripcion_corta": "Viaja a la República Romana y visita los foros donde se forjó el destino de Julio César.",
+    "paradas": [
+      {
+        "orden": 1,
+        "lugar": "Foro Romano",
+        "coords": [41.8925, 12.4853],
+        "detalle": "El corazón político donde el joven César dio sus primeros discursos.",
+        "icono": "columns"
+      },
+      {
+        "orden": 2,
+        "lugar": "Subura",
+        "coords": [41.8947, 12.4908],
+        "detalle": "Los barrios bajos de Roma donde César creció y forjó su carácter.",
+        "icono": "fountain"
+      }
+    ]
+  }
+]
